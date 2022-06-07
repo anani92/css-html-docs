@@ -1,0 +1,53 @@
+* {
+    margin: 0 s;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: hsla(213, 13%, 86%, 0.945);
+}
+
+
+header {
+    text-align: center;
+    background-color: rgb(188, 197, 197);
+    color: azure;
+    font-weight: 900;
+    font-style: italic;
+    font-size: larger;
+    border-radius: 50%;
+    box-shadow: 4em ;
+    width: fit-content;
+}
+
+h2 {
+    background-color: rgb(188, 197, 197);
+    color: azure;
+}
+
+h3 {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+
+
+table {
+    background-color: azure;
+    border: 3px solid grey;
+    padding: 0;
+}
+
+table th {
+    border: grey;
+    background-color: rgb(188, 197, 197);
+    color: azure;
+    margin: 0;
+}
+
+td {
+    border: 2px solid grey;
+}
